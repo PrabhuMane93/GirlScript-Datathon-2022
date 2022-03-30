@@ -4,4 +4,4 @@
 <br> 
 - Been assigned with common problem statement for the brainstorming round on developing an Classifier for Iris Dataset.
 <br> 
-- Allotment of Industry Problem Statement of analysing the death toll pattern of Corona Virus in US based on the 
+- Allotment of Industry Problem Statement of analysing the death toll pattern of Corona Virus in US based on State, Age, Week of diagnosis, Hispanic Origin of the affected infirm
