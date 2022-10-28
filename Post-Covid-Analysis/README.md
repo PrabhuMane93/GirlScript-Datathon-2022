@@ -1,5 +1,5 @@
-EDA dashboards for prescriptive analysis of Covid Death Toll Pattern in United States
-Link to datasets:
+-EDA dashboards for prescriptive analysis of Covid Death Toll Pattern in United States<br>
+-Link to datasets:<br>
 -Conditions Contributing to COVID-19 Deaths, by State and Age, Provisional 2020-2022 : https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm <br>
 -Provisional COVID-19 Deaths: Distribution of Deaths by Race and Hispanic Origin : https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-Distribution-of-Deaths/pj7m-y5uh <br>
 -Provisional COVID-19 Deaths by Week, Sex, and Age : https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Week-Sex-and-Age/vsak-wrfu
